@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pptdezigner
 - 👀 I’m interested in Visual Design.
 - 🌱 I’m currently learning Visual & Interactive Design
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Visual & Interactive Design.
 - 📫 How to reach me? Email at: powerpoint.presentations@outlook.com
 
 <!---
